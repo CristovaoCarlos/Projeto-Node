@@ -48,8 +48,6 @@ const Dk = {
     PODER: 5,
 };
 
-
-
 async function main() {
-    
+    console.log("hello");
 }
