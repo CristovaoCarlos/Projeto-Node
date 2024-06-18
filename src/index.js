@@ -51,3 +51,7 @@ const Dk = {
 async function main() {
     console.log("hello");
 }
+
+async function rollDice() {
+    return Math.floor( Math.random() * 6) + 1;
+}
